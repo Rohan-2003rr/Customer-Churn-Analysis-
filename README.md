@@ -4,7 +4,8 @@
 This project aims to analyze the factors contributing to customer churn and identify actionable insights that can help reduce churn rates.
 By exploring patterns based on services, gender, and the top 5 cities, the analysis uncovers key drivers influencing customer retention.
 
-Dataset used-
+  Dataset used - https://github.com/Rohan-2003rr/Customer-Churn-Analysis-/commit/d3a2f95a06dd26f70a1315662972f2e9b89602
+
 ### 🔍 Key Objectives
 
 Identify the overall churn rate within the dataset.
