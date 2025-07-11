@@ -1,8 +1,10 @@
 # Customer-Churn-Analysis-
+
 ### Project Overview
 This project aims to analyze the factors contributing to customer churn and identify actionable insights that can help reduce churn rates.
 By exploring patterns based on services, gender, and the top 5 cities, the analysis uncovers key drivers influencing customer retention.
 
+Dataset used-
 ### 🔍 Key Objectives
 
 Identify the overall churn rate within the dataset.
@@ -55,3 +57,7 @@ Helps management allocate resources to high-risk segments.
 ### ✏ Conclusion
 This project demonstrates the power of data-driven analysis in tackling customer churn — offering clear insights that organizations can use to design effective retention strategies.
 
+
+✏️ Author
+
+Rohan Singh – https://www.linkedin.com/in/rohan-singh21/|
